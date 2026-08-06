@@ -1,0 +1,17 @@
+Name,Age,Marks,Branch,Attendance,City
+Alice,20.0,85.0,CSE,92.0,Hyderabad
+Bob,21.0,,AIML,88.0,Chennai
+Charlie,19.0,76.0,ECE,88.0,Mumbai
+David,22.0,91.0,cse,95.0,Hydrabad
+Eva,20.0,67.0,AIML,81.0,Hyderabad
+Frank,20.0,54.0,EEE,73.0,Bengaluru
+Grace,21.0,89.0,CSE,90.0,Bengaluru
+Henry,20.0,,ECE,84.0,Chennai
+Isha,19.0,95.0,AIML,98.0,Hyderabad
+Jack,22.0,61.0,MECH,70.0,Pune
+Kiran,21.0,78.0,CSE,85.0,Hyderabad
+Latha,20.0,82.0,AIML,88.0,Mumbai
+Mohan,19.0,74.0,ECE,79.0,Hydrabad
+Nisha,20.0,88.0,CSE,93.0,Hyderabad
+Bob,21.0,,AIML,88.0,Chennai
+Grace,21.0,89.0,CSE,90.0,Chennai
